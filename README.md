@@ -12,7 +12,7 @@ Get the number of random numbers to generate from the user.
 ### Step 2: 
 Get the seed value from the user.
 
-### Step 3: 
+### Step 3:
 Initialize the constants for the Linear Congruential Generator (LCG).
 
 ### Step 4:
